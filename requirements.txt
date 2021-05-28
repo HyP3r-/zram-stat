@@ -1,0 +1,2 @@
+humanize==3.5.0
+termcolor==1.1.0
