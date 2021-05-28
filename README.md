@@ -1,5 +1,5 @@
 # ZRAM Stat
-Show statistics for zram devices
+Show statistics for zram devices (with color)
 
 ## Example Output
 
